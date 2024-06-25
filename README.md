@@ -1,6 +1,6 @@
-# Anomaly Detection in Network Traffic Using Random Forest
+# Early-Stage Anomaly Detection: A Study of Model Performance on Complete vs. Partial Flows
 
-Welcome to the GitHub repository for the paper titled, _"Anomaly Detection in Network Traffic Using Random Forest: A Study on Complete vs Partial Flow Data"_. This repository contains all the Jupyter notebooks, scripts, and datasets used in our study, serving as a comprehensive resource for replicating and understanding the research findings.
+Welcome to the GitHub repository for the paper titled _"Early-Stage Anomaly Detection: A Study of Model Performance on Complete vs. Partial Flows"_. This repository contains all the Jupyter notebooks, scripts, and datasets used in our study, serving as a comprehensive resource for replicating and understanding the research findings.
 
 ## Repository Structure
 
